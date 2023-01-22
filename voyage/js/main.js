@@ -101,7 +101,7 @@
 			margin: 30,
 			stagePadding: 0,
 			nav: false,
-			navText: ['<span class="icon-arrow_back">', '<span class="icon-arrow_forward">'],
+			navText: ['<span class="fa fa-arrow_back">', '<span class="fa fa-arrow_forward">'],
 			responsive:{
 				0:{
 					items: 1
